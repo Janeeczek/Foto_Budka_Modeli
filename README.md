@@ -23,3 +23,5 @@ Sterowanie odbywa się wyłącznie za pomocą myszki:
 
 Skrypt do wczytywania plików .obj i .mtl używa bibliotek z https://assetstore.unity.com/packages/tools/modeling/runtime-obj-importer-49547 .
 
+## Działającą aplikacje można pobrać ze strony: https://github.com/Janeeczek/Foto_Budka_Modeli/releases/tag/1.0.0
+
