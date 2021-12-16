@@ -1,0 +1,804 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-12-16T01:23:13.663+01:00
+  initializedAtString: 2021-12-16T01:17:39.130+01:00
+  log:
+  - commitID: 6cbb333a12a067bfb0630af335d47b20d2780fad
+    mergeA: 
+    mergeB: 
+    authorName: Janeeczek
+    authorEmail: mazurekjan1@gmail.com
+    commitEmail: mazurekjan1@gmail.com
+    commitName: Janeeczek
+    summary: Initial commit
+    description: 
+    timeString: 2021-12-16T01:23:12.000+01:00
+    commitTimeString: 2021-12-16T01:23:12.000+01:00
+    changes:
+    - path: .vscode\settings.json
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport.meta
+      projectPath: Assets\OBJImport.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\CharWordReader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\CharWordReader.cs
+      projectPath: Assets\OBJImport\CharWordReader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\CharWordReader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\CharWordReader.cs.meta
+      projectPath: Assets\OBJImport\CharWordReader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\MTLLoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\MTLLoader.cs
+      projectPath: Assets\OBJImport\MTLLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\MTLLoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\MTLLoader.cs.meta
+      projectPath: Assets\OBJImport\MTLLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\OBJLoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\OBJLoader.cs
+      projectPath: Assets\OBJImport\OBJLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\OBJLoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\OBJLoader.cs.meta
+      projectPath: Assets\OBJImport\OBJLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\OBJLoaderHelper.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\OBJLoaderHelper.cs
+      projectPath: Assets\OBJImport\OBJLoaderHelper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\OBJLoaderHelper.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\OBJLoaderHelper.cs.meta
+      projectPath: Assets\OBJImport\OBJLoaderHelper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\OBJObjectBuilder.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\OBJObjectBuilder.cs
+      projectPath: Assets\OBJImport\OBJObjectBuilder.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\OBJObjectBuilder.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\OBJObjectBuilder.cs.meta
+      projectPath: Assets\OBJImport\OBJObjectBuilder.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\README.HTML
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\README.HTML
+      projectPath: Assets\OBJImport\README.HTML
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\README.HTML.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\README.HTML.meta
+      projectPath: Assets\OBJImport\README.HTML.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\Samples.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\Samples.meta
+      projectPath: Assets\OBJImport\Samples.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\Samples\ObjFromFile.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\Samples\ObjFromFile.cs
+      projectPath: Assets\OBJImport\Samples\ObjFromFile.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\Samples\ObjFromFile.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\Samples\ObjFromFile.cs.meta
+      projectPath: Assets\OBJImport\Samples\ObjFromFile.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\Samples\ObjFromFile.unity
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\Samples\ObjFromFile.unity
+      projectPath: Assets\OBJImport\Samples\ObjFromFile.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\Samples\ObjFromFile.unity.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\Samples\ObjFromFile.unity.meta
+      projectPath: Assets\OBJImport\Samples\ObjFromFile.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\StringExtensions.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\StringExtensions.cs
+      projectPath: Assets\OBJImport\StringExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\StringExtensions.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\StringExtensions.cs.meta
+      projectPath: Assets\OBJImport\StringExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader.meta
+      projectPath: Assets\OBJImport\TextureLoader.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\BMPLoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\BMPLoader.cs
+      projectPath: Assets\OBJImport\TextureLoader\BMPLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\BMPLoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\BMPLoader.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\BMPLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\BinaryExtensions.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\BinaryExtensions.cs
+      projectPath: Assets\OBJImport\TextureLoader\BinaryExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\BinaryExtensions.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\BinaryExtensions.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\BinaryExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ColorExtensions.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ColorExtensions.cs
+      projectPath: Assets\OBJImport\TextureLoader\ColorExtensions.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ColorExtensions.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ColorExtensions.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\ColorExtensions.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\DDSLoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\DDSLoader.cs
+      projectPath: Assets\OBJImport\TextureLoader\DDSLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\DDSLoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\DDSLoader.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\DDSLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ImageLoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ImageLoader.cs
+      projectPath: Assets\OBJImport\TextureLoader\ImageLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ImageLoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ImageLoader.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\ImageLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ImageLoaderHelper.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ImageLoaderHelper.cs
+      projectPath: Assets\OBJImport\TextureLoader\ImageLoaderHelper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ImageLoaderHelper.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ImageLoaderHelper.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\ImageLoaderHelper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ImageUtils.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ImageUtils.cs
+      projectPath: Assets\OBJImport\TextureLoader\ImageUtils.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\ImageUtils.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\ImageUtils.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\ImageUtils.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\TGALoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\TGALoader.cs
+      projectPath: Assets\OBJImport\TextureLoader\TGALoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\OBJImport\TextureLoader\TGALoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\OBJImport\TextureLoader\TGALoader.cs.meta
+      projectPath: Assets\OBJImport\TextureLoader\TGALoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainScript.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scripts\MainScript.cs
+      projectPath: Assets\Scripts\MainScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MainScript.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scripts\MainScript.cs.meta
+      projectPath: Assets\Scripts\MainScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MoveScript.cs
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scripts\MoveScript.cs
+      projectPath: Assets\Scripts\MoveScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\MoveScript.cs.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\Scripts\MoveScript.cs.meta
+      projectPath: Assets\Scripts\MoveScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\SceneTemplateSettings.json
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\SceneTemplateSettings.json
+      projectPath: ProjectSettings\SceneTemplateSettings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimelineSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\TimelineSettings.asset
+      projectPath: ProjectSettings\TimelineSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: StreamingAssets\Input.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\StreamingAssets\Input.meta
+      projectPath: StreamingAssets\Input.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: StreamingAssets\Output.meta
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\StreamingAssets\Output.meta
+      projectPath: StreamingAssets\Output.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 0baae6d1b7e1d8971144d04a055aa4cfc3612fbd
+    mergeA: 
+    mergeB: 
+    authorName: Janeeczek
+    authorEmail: mazurekjan1@gmail.com
+    commitEmail: mazurekjan1@gmail.com
+    commitName: Janeeczek
+    summary: Initial commit
+    description: 
+    timeString: 2021-12-16T01:17:38.000+01:00
+    commitTimeString: 2021-12-16T01:17:38.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Jan.Mazurek\Jan_Mazurek_zadanie\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
